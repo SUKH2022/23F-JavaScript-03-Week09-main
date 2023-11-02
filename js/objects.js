@@ -7,7 +7,7 @@ var person = {
         firstName: "Sukhpreet",
         lastName: "Saini",
     },
-    age: 16,
+    age: 19,
     gender: "Female",
     address: {
         streetNo: 1,
